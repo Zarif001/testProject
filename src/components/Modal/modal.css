@@ -1,0 +1,23 @@
+.modal{
+    width: 600px;
+    margin: 0 0 30px 50px;
+    background: black;
+    padding: 10px 50px 100px 50px;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      
+}
+h3{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    width: 200px;
+    padding: 20px 0;
+    margin-right: 10px;
+    font-size: 20px;
+}
